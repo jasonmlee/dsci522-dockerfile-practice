@@ -1,0 +1,10 @@
+name: 'dockerfile-practice'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.11
+  - pandas==2.2.3
+  - numpy==2.1.3 
+
+
