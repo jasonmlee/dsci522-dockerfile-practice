@@ -26,7 +26,7 @@ This project includes content from the following third-party sources:
 
 - **docker-publish.yml**
   - Original Author: [Tiffany Timbers]
-  - Source: [[URL to the original file or repository](https://github.com/ttimbers/dsci522-dockerfile-practice/blob/main/.github/workflows/docker-publish.yml)]
+  - Source: [[docker-publish.yml](https://github.com/ttimbers/dsci522-dockerfile-practice/blob/main/.github/workflows/docker-publish.yml)]
   - License: [MIT License]
   - Modifications: ["None"]
 
